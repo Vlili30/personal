@@ -53,7 +53,7 @@ exclude:
 - Gemfile.lock
 - README.md
 - LICENCE
-paginate: 10
+paginate: 2
 paginate_path: "/blog/:num/"
 jekyll-archives:
   enabled:
