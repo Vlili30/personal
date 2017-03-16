@@ -23,10 +23,10 @@ defaults:
   values:
     layout: post
     map:
-      hello :
-        - red
-        - green
-        - blue
+      hello:
+      - red
+      - green
+      - blue
 - scope:
     path: contact-success.html
   values:
