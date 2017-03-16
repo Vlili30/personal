@@ -2,6 +2,9 @@
 title: Frisco Template
 timezone: UTC
 collections:
+  menu:
+    title: MENU
+    output: true
   posts:
     title: Posts
     output: true
