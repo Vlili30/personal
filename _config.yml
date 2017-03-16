@@ -22,7 +22,10 @@ defaults:
     type: posts
   values:
     layout: post
-    colors: ["red", "green", "blue"]
+    colors:
+    - red
+    - green
+    - blue
 - scope:
     path: contact-success.html
   values:
