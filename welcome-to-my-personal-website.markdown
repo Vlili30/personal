@@ -1,6 +1,7 @@
 ---
 title: Welcome to my personal website
 date: 2017-03-13 13:15:00 Z
+layout: default
 ---
 
 Nunc et arcu orci. Pellentesque nec semper sem. Curabitur consequat neque massa, vulputate eleifend nunc gravida ut. Vivamus consequat velit ut felis consequat lacinia. Aliquam semper vulputate euismod. Curabitur eu nibh non quam feugiat congue vel vitae odio. Curabitur eleifend ante ac mollis finibus. Pellentesque sed venenatis arcu. Duis ut metus ut lectus consectetur suscipit non eget nunc.
